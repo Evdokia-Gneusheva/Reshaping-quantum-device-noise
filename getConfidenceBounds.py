@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 12 16:53:17 2024
-
-"""
- 
 import numpy as np
  
 def wilsonScore(nS,n,z):
