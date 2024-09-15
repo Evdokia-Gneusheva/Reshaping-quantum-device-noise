@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  8 16:17:21 2024
-
-@author: evdokia
-"""
-
 import boto3
 from braket.circuits import Circuit, Noise, Gate, Instruction, ResultType
 from braket.aws import AwsDevice
